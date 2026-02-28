@@ -1,0 +1,15 @@
+# Local study material (not for submission)
+junior-devops-role/
+
+# Sensitive files
+*.pem
+.env
+
+# Dependencies
+node_modules/
+
+# OS files
+.DS_Store
+
+# Claude Code
+.claude/
